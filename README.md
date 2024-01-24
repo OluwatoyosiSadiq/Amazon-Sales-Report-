@@ -21,10 +21,16 @@ This dataset provides detailed insights into Amazon sales data, including SKU Co
 
 - Courier Status: Status of the courier. 
 
-- Qty: Quantity of the product. 
-
+- Qty: Quantity of the product.
+- 
 - Amount: Amount of the sale. 
 
 - B2B: Business to business sale.
 
 - Currency: The currency used for the sale. 
+
+### Skills include;
+  - Databricks
+  - Data analysis and exploration
+  - Data cleaning and transformation
+  - Data visualization
