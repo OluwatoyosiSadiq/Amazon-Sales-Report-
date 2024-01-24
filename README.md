@@ -16,13 +16,14 @@ This dataset provides detailed insights into Amazon sales data, including SKU Co
 
 - Style: Style of the product. 
 
-- SKU: Stock Keeping Unit. 
+- SKU: Stock Keeping Unit.
+  
 - ASIN: Amazon Standard Identification Number. 
 
 - Courier Status: Status of the courier. 
 
 - Qty: Quantity of the product.
-- 
+  
 - Amount: Amount of the sale. 
 
 - B2B: Business to business sale.
